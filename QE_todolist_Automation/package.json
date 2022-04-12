@@ -1,0 +1,32 @@
+{
+  "name": "qe-todolist-automation",
+  "version": "1.0.0",
+  "description": "QE-todolist project",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/nkuthalo/qe-todo-list.git"
+  },
+  "keywords": [
+    "e2e",
+    "QE",
+    "todo",
+    "list"
+  ],
+  "author": "NkuthaloZihlwele",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/nkuthalo/qe-todo-list/issues"
+  },
+  "homepage": "https://gitlab.com/nkuthalo/qe-todo-list#readme",
+  "devDependencies": {
+    "cypress": "^9.5.3"
+  },
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^9.0.0"
+  }
+}
