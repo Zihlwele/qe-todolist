@@ -49,7 +49,7 @@
   - Add a link to this Markdown/Gherkin file in this readme in the `Assessment answers` section below. Please commit this file/changes to git.
 
 ## Assessment answers:
-1. <Add link to test plan Markdown/Gherkin file from task 1>  </qe-todolist/qe-todolist/QE_todolist_Automation/cypress/integration(all feature files and test plan are located here)>
-2. <Add link to bug report Markdown/Gherkin file(s) from task 2>  </qe-todolist/qe-todolist/QE_todolist_Automation/cypress/integration/BugReport.txt>
-3. <Add link to test plan Markdown/Gherkin file/section from task 3> </qe-todolist/qe-todolist/QE_todolist_Automation/cypress/integration/TestWithMobilePhone.feature>
-4. <Add link to test plan Markdown/Gherkin file/section from task 4>
+1. <qe-todolist/QE_todolist_Automation/cypress/integration/QE_TODOLIST_TEST_PLAN.md>
+2. <qe-todolist/QE_todolist_Automation/cypress/integration/BUG_REPORT.md>
+3. <qe-todolist/QE_todolist_Automation/cypress/integration/TestWithMobilePhone.feature>
+4. <>
